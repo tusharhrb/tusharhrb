@@ -14,4 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=dark&show_icons=true)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=onedark&show_icons=true)
