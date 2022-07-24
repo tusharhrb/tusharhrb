@@ -1,11 +1,11 @@
-### Hi! I am Tushar Bamanke 👋
+### Hi, I'm Tushar Bamanke 👋
 
 <!-- **tusharhrb/tusharhrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on DSA with C++
-- 🌱 I’m currently learning C++ and machine learning with Python 
-- 💬 Ask me about: Technology, C++, Python, Machine Learning, Web Development
+- 🌱 I’m currently learning C++ and Machine Learning with Python 
+- 💬 Ask me about: Technology, C++, Python, Machine Learning, Web Development, Animation
 - 📫 How to reach me: el942001@gmail.com
 <!-- - ⚡ Fun fact:  -->
 
