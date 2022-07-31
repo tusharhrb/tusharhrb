@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on DSA with C++
 - 🌱 I’m currently learning C++ and Machine Learning with Python 
 - 💬 Ask me about: Technology, C++, Python, Machine Learning, Web Development, Animation
-- 📫 How to reach me: el942001@gmail.com
+- 📫 How to reach me: t.bamanke@outlook.com
 <!-- - ⚡ Fun fact:  -->
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=onedark&show_icons=true)
