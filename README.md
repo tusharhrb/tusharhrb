@@ -8,8 +8,8 @@
 - 💬 Ask me about: C, C++, Python, Machine Learning, Web Development, Technology, NFT, Blockchain technology, WEB-3
 - 📫 How to reach me: t.bamanke@outlook.com
 <!-- - ⚡ Fun fact:  -->
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=onedark&show_icons=true)
+<!-- https://github.com/anuraghazra/github-readme-stats/tree/master/themes -->
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=swift&show_icons=true)
 
 <!-- - 😄 Pronouns:  -->
 <!-- - 👯 I’m looking to collaborate on  -->
