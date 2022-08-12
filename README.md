@@ -3,9 +3,9 @@
 <!-- **tusharhrb/tusharhrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on DSA with Python
+- 🔭 I’m currently learning C with DSA
 - 🌱 Also learning Machine Learning with Python 
-- 💬 Ask me about: C++, Python, Machine Learning, Web Development, Technology
+- 💬 Ask me about: C, C++, Python, Machine Learning, Web Development, Technology, NFT, Blockchain technology, WEB-3
 - 📫 How to reach me: t.bamanke@outlook.com
 <!-- - ⚡ Fun fact:  -->
 
