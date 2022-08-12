@@ -9,7 +9,7 @@
 - 📫 How to reach me: t.bamanke@outlook.com
 <!-- - ⚡ Fun fact:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/tree/master/themes -->
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=swift&show_icons=true)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=dracula&show_icons=true)
 
 <!-- - 😄 Pronouns:  -->
 <!-- - 👯 I’m looking to collaborate on  -->
