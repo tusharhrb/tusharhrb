@@ -10,7 +10,7 @@
 <!-- - ⚡ Fun fact:  -->
 <!-- https://github.com/anuraghazra/github-readme-stats/tree/master/themes -->
 <!--[Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=dracula&show_icons=True, )-->
-![Data Scientist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar_Bamanke&theme=tokyonight&show_icons=true&hide=contribs,issues&card_width=500&hide_rank=true&include_all_commits=true&custom_title=Data%20Scientist's%20GitHub%20Stats)
+![Data Scientist's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharhrb&theme=tokyonight&show_icons=true&hide=contribs,issues&card_width=500&hide_rank=true&include_all_commits=true&custom_title=Data%20Scientist's%20GitHub%20Stats)
 
 <!-- - 😄 Pronouns:  -->
 <!-- - 👯 I’m looking to collaborate on  -->
